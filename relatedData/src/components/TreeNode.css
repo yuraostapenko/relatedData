@@ -1,0 +1,20 @@
+.mainRootFolder {
+    display: block;
+    cursor: pointer;
+}
+
+.childRootFolder{
+    display: block;
+    padding-left: 20px; 
+    cursor: pointer; 
+}
+
+.fafolderGreen {
+    margin-right: 5px;
+    color: green;
+}
+
+.fafolderRed {
+    margin-right: 5px;
+    color: red;
+}
