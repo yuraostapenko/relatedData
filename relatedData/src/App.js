@@ -9,9 +9,7 @@ class App extends Component {
       <div className="App">
         
         <div className="App-intro">
-
           <Tree/>
-          
         </div>
       </div>
     );
